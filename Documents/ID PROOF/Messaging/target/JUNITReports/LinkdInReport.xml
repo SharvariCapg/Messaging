@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="23.92" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="To test messaging functionality of LinkdIn" name="to validate sending message by searching a person" time="23.765">
+<system-out><![CDATA[
+Given User is on the messaging page.........................................passed
+When User will search a person on the searchbar.............................passed
+And write a "<text>" in the textbox.........................................passed
+And click on the send button................................................passed
+Then message will be sent to respective person..............................passed
+]]></system-out>
+</testcase>
+</testsuite>
